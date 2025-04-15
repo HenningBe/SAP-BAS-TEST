@@ -12,5 +12,8 @@
         "*.rule": "default",
         "*.properties": "default",
         "*.fragment": "default"
+    },
+    "mdk.uieditor": {
+        "device": "phone"
     }
 }
